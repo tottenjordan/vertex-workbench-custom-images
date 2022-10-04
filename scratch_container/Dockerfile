@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:latest
 
 ## for apt to be noninteractive
 ENV DEBIAN_FRONTEND noninteractive
